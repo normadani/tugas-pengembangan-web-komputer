@@ -1,0 +1,127 @@
+#kotak1{
+ width: 790px; /*lebar*/
+ height: 1000px; /*tinggi*/
+ margin: auto;
+}
+#kotak2{
+ width: 100%; /*ini lebar*/
+ height: 40px; /*ini tinggi*/
+ background: silver; /*ini warna background*/
+ margin: auto; /*ini utk mengatur lebar tinggi atas bawah*/
+ margin-top: 5px; /*ini jarak antara batas atas*/
+ border: 2px solid white;
+}
+#kotak3{ 
+ width: 100%;
+ height: 150px;
+ background: silver;
+ margin: auto;
+ margin-top: 5px;
+ font-size: 2em;
+ padding:10px;
+ text-align: center;
+}
+#kotak4{ 
+ width: 100%;
+ height: 180px;
+ background: white;
+ margin: auto;
+ border:2px solid white;
+text-align:justify;
+}
+#kotak5{
+ width: 100%;
+ height: 280px;
+ margin: auto;
+}
+#kotak6{
+ width: 100%;
+ height:230px;
+ margin: auto;
+}
+#kotak7{
+ width: 100%;
+ height: 20px;
+ background: white;
+ margin: auto;
+ font-size: 0.7em;
+ text-align: center;
+}
+#kotak8{
+ width: 230px;
+ height: 235px;
+ background-color: silver;
+ float: left;
+ margin-top: 10px;
+ margin-left: 10px;
+ font-size: 0.8em;
+ text-align: justify;
+ padding: 5px;
+}
+#kotak9{
+ width: 230px;
+ height: 235px;
+ background: silver;
+ float: left;
+ margin-top: 10px;
+ margin-left: 10px;
+ font-size: 0.8em;
+ text-align: justify;
+ padding: 5px;
+}
+#kotak10{
+ width:230px;
+ height:235px;
+ background: silver;
+ float: left;
+ margin-top: 10px;
+ margin-left: 10px;
+ font-size:0.8em;
+ text-align: justify;
+ padding: 5px;
+ }
+#kotak11{
+ width: 170px;
+ height: 200px;
+ background-color: silver;
+ float: left;
+ margin-top: 10px;
+ margin-left: 15px;
+ font-size: 0.8em;
+ text-align: justify;
+ padding: 5px;
+}
+#kotak12{
+ width: 170px;
+ height: 200px;
+ background-color: silver;
+ float: left;
+ margin-top: 10px;
+ margin-left: 15px;
+ font-size: 0.8em;
+ text-align: justify;
+ padding: 5px;
+}
+#kotak13{
+ width: 170px;
+ height: 200px;
+ background-color: silver;
+ float: left;
+ margin-top: 10px;
+ margin-left: 15px;
+ font-size: 0.8em;
+ text-align: justify;
+ padding: 5px;
+}
+#kotak14{
+ width: 170px;
+ height: 200px;
+ background-color: silver;
+ float: left;
+ margin-top: 10px;
+ margin-left: 15px;
+ font-size: 0.8em;
+ text-align: justify;
+ padding: 5px;
+}
+
